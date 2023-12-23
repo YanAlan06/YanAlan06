@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YanAlan06
+- 👀 I’m interested in creating small scale personalized solutions
+- 🌱 I’m currently learning python and an interest in game development
+- 💞️ I’m looking to collaborate on app games
